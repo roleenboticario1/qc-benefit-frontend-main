@@ -1,0 +1,7 @@
+NODE_ENV=development
+PORT=8081
+PUBLIC_URL=
+
+REACT_APP_SUBDIR=
+REACT_APP_HTTPCOMMON=http://localhost:8080
+REACT_APP_REPORT=http://localhost:8000
